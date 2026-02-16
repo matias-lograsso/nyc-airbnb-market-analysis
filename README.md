@@ -51,6 +51,15 @@ The analysis followed these main steps:
 - Most listings allow short stays, with two-thirds requiring three nights or fewer.
 
 
+## Model Evidence
+
+### Estimated Monthly Revenue by Neighbourhood Group per Room Type 
+
+<p align="center">
+  <img src="images/estimated_monthly_revenue.png" width="1000">
+</p>
+
+
 ## Conclusions & Recommendations
 
 Pricing in NYC Airbnb listings is primarily driven by location and room type.
