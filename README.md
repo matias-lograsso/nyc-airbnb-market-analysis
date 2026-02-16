@@ -51,7 +51,7 @@ The analysis followed these main steps:
 - Most listings allow short stays, with two-thirds requiring three nights or fewer.
 
 
-## Model Evidence
+## Analysis Evidence
 
 ### Estimated Monthly Revenue by Neighbourhood Group per Room Type 
 
